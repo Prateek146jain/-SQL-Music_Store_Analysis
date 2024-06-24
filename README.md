@@ -1,1 +1,1 @@
-# -SQL-Music_Store_Analysis
+# SQL-Music_Store_Analysis
